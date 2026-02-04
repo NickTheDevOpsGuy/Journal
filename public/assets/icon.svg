@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-hidden="true">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <!-- cover -->
+  <rect x="12" y="8" width="40" height="48" rx="8" fill="url(#g)"/>
+  <!-- spine -->
+  <rect x="12" y="8" width="7" height="48" rx="3.5" fill="#0ea5e9" opacity=".9"/>
+  <!-- bookmark -->
+  <path d="M44 12v16l-6-4-6 4V12z" fill="#f43f5e"/>
+  <!-- glyph (pen) -->
+  <path d="M24 42l8-8 6 6-8 8-6 2z" fill="#0f172a" opacity=".8"/>
+</svg>
